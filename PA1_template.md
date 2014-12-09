@@ -122,7 +122,7 @@ missing <- length(missing.rows)
 ```
 The total number of rows with NA is **2304**.  
 
-### *Strategy for filling in the missing values*
+#### *Strategy for filling in the missing values*
 We will be using a simple strategy to replace NAs with the mean for that 5-minute interval.
 
 
